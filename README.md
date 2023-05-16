@@ -17,8 +17,7 @@
 
 **Packages:** Pandas, NumPy, sklearn, nltk, string, and seaborn.  
 
-## Data Used
-* **Data taken from kaggle** : https://www.kaggle.com/fahadmehfoooz/sentiment-analysis-svm-nb-bagging-boosting-rf/data
+
 
 ## Data Wrangling and Data Visualization
 * Preparing the tweets by removing the stopwords, punctuations and converting it to cleaned text.
